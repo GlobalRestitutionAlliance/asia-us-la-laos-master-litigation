@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: laosian-restitution-roadmap-and-qsf-trust-execution
-  name: Laosian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/laosian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_la_001
+    name: Laos Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_002
+    name: Laos Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_003
+    name: Laos Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_004
+    name: Laos Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_005
+    name: Laos Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_006
+    name: Laos Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_007
+    name: Laos Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_008
+    name: Laos Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_009
+    name: Laos Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_010
+    name: Laos Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_011
+    name: Laos Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_012
+    name: Laos Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_013
+    name: Laos Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_014
+    name: Laos Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_015
+    name: Laos Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_016
+    name: Laos Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_017
+    name: Laos Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_018
+    name: Laos Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_019
+    name: Laos Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_020
+    name: Laos Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_021
+    name: Laos Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_022
+    name: Laos Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_023
+    name: Laos Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_024
+    name: Laos Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_025
+    name: Laos Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_026
+    name: Laos Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_027
+    name: Laos Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_028
+    name: Laos Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_029
+    name: Laos Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_030
+    name: Laos Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_031
+    name: Laos Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_032
+    name: Laos Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_033
+    name: Laos Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_034
+    name: Laos Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_035
+    name: Laos Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_036
+    name: Laos Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_037
+    name: Laos Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_038
+    name: Laos Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_039
+    name: Laos Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_040
+    name: Laos Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_041
+    name: Laos Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_042
+    name: Laos Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_043
+    name: Laos Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_044
+    name: Laos Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_045
+    name: Laos Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_046
+    name: Laos Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_047
+    name: Laos Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_048
+    name: Laos Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_049
+    name: Laos Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_050
+    name: Laos Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_051
+    name: Laos Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_052
+    name: Laos Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_053
+    name: Laos Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_054
+    name: Laos Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_055
+    name: Laos Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_056
+    name: Laos Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_057
+    name: Laos Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_058
+    name: Laos Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_059
+    name: Laos Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_060
+    name: Laos Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_061
+    name: Laos Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_062
+    name: Laos Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_063
+    name: Laos Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_064
+    name: Laos Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_065
+    name: Laos Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_066
+    name: Laos Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_067
+    name: Laos Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_068
+    name: Laos Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_069
+    name: Laos Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_070
+    name: Laos Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_071
+    name: Laos Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_072
+    name: Laos Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_073
+    name: Laos Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_074
+    name: Laos Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_075
+    name: Laos Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_076
+    name: Laos Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_077
+    name: Laos Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_078
+    name: Laos Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_079
+    name: Laos Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_080
+    name: Laos Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_081
+    name: Laos Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_082
+    name: Laos Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_083
+    name: Laos Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_084
+    name: Laos Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_085
+    name: Laos Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_086
+    name: Laos Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_087
+    name: Laos Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_088
+    name: Laos Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_089
+    name: Laos Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_090
+    name: Laos Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_091
+    name: Laos Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_092
+    name: Laos Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_093
+    name: Laos Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_094
+    name: Laos Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_095
+    name: Laos Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_096
+    name: Laos Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_097
+    name: Laos Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_098
+    name: Laos Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_099
+    name: Laos Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_100
+    name: Laos Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_101
+    name: Laos Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_102
+    name: Laos Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_103
+    name: Laos Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_104
+    name: Laos Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_105
+    name: Laos Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_106
+    name: Laos Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_107
+    name: Laos Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_108
+    name: Laos Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_109
+    name: Laos Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_110
+    name: Laos Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_111
+    name: Laos Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_112
+    name: Laos Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_113
+    name: Laos Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_114
+    name: Laos Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_115
+    name: Laos Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_116
+    name: Laos Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_117
+    name: Laos Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_118
+    name: Laos Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_119
+    name: Laos Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_120
+    name: Laos Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_121
+    name: Laos Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_122
+    name: Laos Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_123
+    name: Laos Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_124
+    name: Laos Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_125
+    name: Laos Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_126
+    name: Laos Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_127
+    name: Laos Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_128
+    name: Laos Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_129
+    name: Laos Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_130
+    name: Laos Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_131
+    name: Laos Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_132
+    name: Laos Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_133
+    name: Laos Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_134
+    name: Laos Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_135
+    name: Laos Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_136
+    name: Laos Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_137
+    name: Laos Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_138
+    name: Laos Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_139
+    name: Laos Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_140
+    name: Laos Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_141
+    name: Laos Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_142
+    name: Laos Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_143
+    name: Laos Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_144
+    name: Laos Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_145
+    name: Laos Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_146
+    name: Laos Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_147
+    name: Laos Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_148
+    name: Laos Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_149
+    name: Laos Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_150
+    name: Laos Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_151
+    name: Laos Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_152
+    name: Laos Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_153
+    name: Laos Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_154
+    name: Laos Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_155
+    name: Laos Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_156
+    name: Laos Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_157
+    name: Laos Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_158
+    name: Laos Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_159
+    name: Laos Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_160
+    name: Laos Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_161
+    name: Laos Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_162
+    name: Laos Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_163
+    name: Laos Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_164
+    name: Laos Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_165
+    name: Laos Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_166
+    name: Laos Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_167
+    name: Laos Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_168
+    name: Laos Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_169
+    name: Laos Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_170
+    name: Laos Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_171
+    name: Laos Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_172
+    name: Laos Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_173
+    name: Laos Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_174
+    name: Laos Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_175
+    name: Laos Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_176
+    name: Laos Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_177
+    name: Laos Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_178
+    name: Laos Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_179
+    name: Laos Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_180
+    name: Laos Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_181
+    name: Laos Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_182
+    name: Laos Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_183
+    name: Laos Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_184
+    name: Laos Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_185
+    name: Laos Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_186
+    name: Laos Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_187
+    name: Laos Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_188
+    name: Laos Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_189
+    name: Laos Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_190
+    name: Laos Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_191
+    name: Laos Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_192
+    name: Laos Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_193
+    name: Laos Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_194
+    name: Laos Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_195
+    name: Laos Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_196
+    name: Laos Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_197
+    name: Laos Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_198
+    name: Laos Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_199
+    name: Laos Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_200
+    name: Laos Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_201
+    name: Laos Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_202
+    name: Laos Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_203
+    name: Laos Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_204
+    name: Laos Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_205
+    name: Laos Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_206
+    name: Laos Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_207
+    name: Laos Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_208
+    name: Laos Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_209
+    name: Laos Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_210
+    name: Laos Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_211
+    name: Laos Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_212
+    name: Laos Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_213
+    name: Laos Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_214
+    name: Laos Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_215
+    name: Laos Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_216
+    name: Laos Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_217
+    name: Laos Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_218
+    name: Laos Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_219
+    name: Laos Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_220
+    name: Laos Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_221
+    name: Laos Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_222
+    name: Laos Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_223
+    name: Laos Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_224
+    name: Laos Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_225
+    name: Laos Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_226
+    name: Laos Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_227
+    name: Laos Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_228
+    name: Laos Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_229
+    name: Laos Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_230
+    name: Laos Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_231
+    name: Laos Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_232
+    name: Laos Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_233
+    name: Laos Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_234
+    name: Laos Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_235
+    name: Laos Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_236
+    name: Laos Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_237
+    name: Laos Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_238
+    name: Laos Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_239
+    name: Laos Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_240
+    name: Laos Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_241
+    name: Laos Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_242
+    name: Laos Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_243
+    name: Laos Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_244
+    name: Laos Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_245
+    name: Laos Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_246
+    name: Laos Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_247
+    name: Laos Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_248
+    name: Laos Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_249
+    name: Laos Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_250
+    name: Laos Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_251
+    name: Laos Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_la_252
+    name: Laos Skill 252
+    status: ACTIVE_SCAFFOLD
